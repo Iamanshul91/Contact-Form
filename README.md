@@ -1,3 +1,3 @@
 # Contact-Form
 This is my first repository and i am very exited to do this..
-As Author - Anshul Kumar
+Author - Anshul Kumar
